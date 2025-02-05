@@ -67,3 +67,4 @@ if uploaded_file:
 else:
     st.info("Please upload a CSV file to begin.")
 
+st.markdown("developed by: Ingyete Jacob")
