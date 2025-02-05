@@ -71,6 +71,6 @@ else:
 st.markdown(
     """
     ---
-    *Created with ❤️ using [Streamlit](https://streamlit.io/)*
+    #*Created with ❤️ using [Streamlit](https://streamlit.io/)*
     """
 )
